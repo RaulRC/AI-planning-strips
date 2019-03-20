@@ -56,7 +56,7 @@ GetBanana(at 1)
 
 The following code will execute the default example: 
 
-```python3 task5/strips.py```
+```python3 strips.py```
 
 Having the following (possible) output:
 
